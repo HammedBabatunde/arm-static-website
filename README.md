@@ -1,2 +1,1 @@
-# azure-resume
-My own Azure Resume
+# Todo List Project
